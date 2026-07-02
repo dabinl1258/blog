@@ -1,4 +1,8 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = 'https://dabinl1258.github.io/'
+locale = 'ko_kr'
+title = 'dabin blog'
 theme = "terminal"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
